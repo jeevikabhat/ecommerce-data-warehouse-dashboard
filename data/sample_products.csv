@@ -1,0 +1,6 @@
+product_id,product_name,category,price,supplier
+P001,Classic Tee,Apparel,19.99,SupplierA
+P002,Running Shoes,Footwear,79.99,SupplierB
+P003,Coffee Mug,Home,9.99,SupplierC
+P004,Formal Shirt,Apparel,49.99,SupplierD
+P005,Smartwatch,Electronics,199.99,SupplierE

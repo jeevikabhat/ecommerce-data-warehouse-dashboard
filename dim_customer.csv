@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,region,gender,age_group
+C001,Aisha,Patel,aisha@example.com,West,F,25-34
+C002,John,Smith,john@example.com,North,M,35-44
+C003,Mei,Wang,mei@example.com,East,F,18-24
+C004,David,Lee,david@example.com,South,M,45-54
+C005,Riya,Sharma,riya@example.com,Central,F,25-34

@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product_id,unit_price,quantity,order_channel
+O1001,2024-07-01,C001,P001,19.99,2,web
+O1002,2024-07-01,C002,P003,9.99,1,app
+O1003,2024-07-02,C003,P002,79.99,1,in_store
+O1004,2024-07-03,C004,P005,199.99,1,web
+O1005,2024-07-03,C005,P004,49.99,2,app
