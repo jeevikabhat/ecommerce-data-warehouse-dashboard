@@ -82,10 +82,8 @@ This project was a real learning experience. Some challenges included:
 
 If I extend this project further, I’d like to:
 
-1. Integrate Cloud Storage
-   Host the data warehouse on AWS Redshift or Google BigQuery for scalability.
+1. Integrate Cloud Storage - Host the data warehouse on AWS Redshift or Google BigQuery for scalability.
 
-2. Enhanced Visuals  
-   Add filters by region, product category, and channel to make the dashboard more interactive.
+2. Enhanced Visuals - Add filters by region, product category, and channel to make the dashboard more interactive.
 
 
