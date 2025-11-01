@@ -50,23 +50,19 @@ This project was a real learning experience. Some challenges included:
 
 1. Dataset Linking Confusion in Tableau
    
-   Initially, Tableau created multiple copies of the same tables and didn’t recognize relationships.  
-   I had to delete extra tables, manually define logical relationships (using `product_id`, `customer_id`, etc.), and rebuild the schema properly.
+   Initially, Tableau created multiple copies of the same tables and didn’t recognize relationships. I had to delete extra tables, manually define logical relationships (using `product_id`, `customer_id`, etc.), and rebuild the schema properly.
 
 2. KPI Formatting & Decimal Display Issues
    
-   While building KPI cards, Tableau showed long or unformatted numbers.  
-   I corrected this by adjusting the “Number Format” (setting decimals, currency format, etc.).
+   While building KPI cards, Tableau showed long or unformatted numbers. I corrected this by adjusting the “Number Format” (setting decimals, currency format, etc.).
 
 3. Visualization Layout
 
-   Getting all five visualizations neatly aligned in the dashboard was tricky.  
-   I learned to use horizontal and vertical containers to organize the layout professionally.
+   Getting all five visualizations neatly aligned in the dashboard was tricky. I learned to use horizontal and vertical containers to organize the layout professionally.
 
 4. Tool Restrictions
    
-   Power BI required a Microsoft account and didn’t allow personal logins, so I switched to Tableau Public.  
-   Tableau Public also lacked a “Save As” option until publishing once online, which I learned through trial and error.
+   Power BI required a Microsoft account and didn’t allow personal logins, so I switched to Tableau Public. Tableau Public also lacked a “Save As” option until publishing once online, which I learned through trial and error.
 
 5. Establishing Joins on Tableau
    
